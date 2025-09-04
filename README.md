@@ -10,15 +10,16 @@ Các insight và khuyến nghị được đưa ra cho các lĩnh vực trọng 
 - **Hiệu quả tài trợ** – đánh giá số tiền tài trợ, phân bố nhà tài trợ, mức độ xuất hiện của thương hiệu.
 - **Xu hướng tham gia và cạnh tranh** – phân tích số lượng người tham gia, tỷ lệ hoàn thành, cự ly phổ biến.
 
-Các truy vấn SQL được sử dụng để tạo cơ sở dữ liệu [Script tạo bảng]
+Các truy vấn SQL được sử dụng để tạo cơ sở dữ liệu [[Script tạo bảng](https://github.com/FishCake9918/Viettel-marathon-2024/blob/main/Db_creation/Marathon_tables_creation.sql)]
 
-Tập lệnh SQL dùng để nhập bộ dữ liệu [Dataset]
+Tập lệnh SQL dùng để nhập bộ dữ liệu [[Dataset](https://github.com/FishCake9918/Viettel-marathon-2024/blob/main/Db_creation/Marathon_dataset.sql)]
 
-Các truy vấn SQL dùng để khám phá bộ dữ liệu [Explore_Query]
+Các truy vấn SQL dùng để khám phá bộ dữ liệu [[Explore_Query](https://github.com/FishCake9918/Viettel-marathon-2024/blob/main/queries_runners.sql)]
 
-Các truy vấn SQL chuyên sâu liên quan đến 3 lĩnh vực nói trên có thể xem tại đây [Insights_Query]
+Các truy vấn SQL chuyên sâu liên quan đến 3 lĩnh vực nói trên có thể xem tại đây [[Insights_Query](https://github.com/FishCake9918/Viettel-marathon-2024/blob/main/insight_queries_runners.sql)]
 
-Dashboard PowerBI tương tác dùng để báo cáo và khám phá xu hướng doanh số có thể xem tại đây [Dasboard]
+Dashboard PowerBI tương tác dùng để báo cáo và khám phá xu hướng doanh số có thể xem tại đây [[Dasboard](https://github.com/FishCake9918/Viettel-marathon-2024/blob/main/Dashboard.pbix)]
+<img width="1218" height="684" alt="{8B1D9BDA-F558-4B33-A612-02E87DA223A9}" src="https://github.com/user-attachments/assets/ac66759c-e52f-483d-bf71-1c140016cd5a" />
 
 
 # Data Structure & Initial Checks
@@ -39,7 +40,8 @@ Cấu trúc cơ sở dữ liệu chính của dự án được thể hiện bê
 
 - **7. result_marathon – Lưu kết quả marathon (số bib, ID vận động viên, thời gian tại các mốc 14.4km, 25.8km, 32.3km, 37.9km, chip time, thời gian hoàn thành) để phân tích thành tích đường dài.**
 
-![alt text](https://github.com/FishCake9918/MDX_query/blob/main/ConstellationSchema.jpg)
+<img width="1094" height="784" alt="{0EA7F9C1-611B-41DF-9237-95FEED78411D}" src="https://github.com/user-attachments/assets/7cca52d3-f46d-4e64-9f50-ceca099642d9" />
+
 
 
 # Executive Summary
